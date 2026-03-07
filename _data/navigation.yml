@@ -7,5 +7,5 @@
 - name: RSS
   link: /feed.xml
 
-- name: GitHub
-  link: https://github.com/kevquirk/512kb.club
+- name: SourceHut
+  link: https://git.sr.ht/~bt/512kb-club

@@ -3,12 +3,12 @@ plugins:
   - jekyll-seo-tag
 
 # SEO Stuff
-author: Kev Quirk
+author: Bradley Taunt
 title: 512KB Club
 tagline: A showcase of lightweight websites.
 description: The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.
 lang: en
-locale: en_GB
+locale: en_CA
 url: "https://512kb.club"
 baseurl: ""
 permalink: :title
@@ -16,10 +16,6 @@ timezone: Etc/GMT
 
 # Syntax Highlighting
 highlighter: rouge
-
-# Netlify redirects
-include:
-  - _redirects
 
 exclude:
   - scripts/

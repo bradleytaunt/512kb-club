@@ -1,7 +1,5 @@
 # 512KB Club
 
-**The 512kb Club has been sunset (<a href="https://kevquirk.com/sunsetting-the-512kb-club">read more here</a>), so I have disabled the ability to create pull requests. If someone else takes over the project, this may come back in the future.**
-
 The internet has become a **bloated mess**. Massive JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
 
 When online newspapers like [The Guardian](https://www.theguardian.com/uk) are **over 4MB in size**, you know there's a problem. Why does an online newspaper need to be over 4MB in size? It's crazy.
@@ -13,7 +11,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 1. It must be an actual site that contains a reasonable amount of information, not just a couple of links on a page ([more info here](https://512kb.club/#lightweight-notice)).
 2. Your total UNCOMPRESSED web resources must not exceed 512KB.
 
-## How to create a PR to add your site to the 512KB Club
+## Submit your site to the 512KB Club
 
 1. Fork this repository.
 2. Get the size of your website's homepage.
@@ -38,5 +36,3 @@ But we can make a difference - all it takes is some optimisation. Do you really 
   size:
   last_checked:
 ```
-
-**NOTE:** Entries are automatically sorted by domain name. Please add your site to the list without worrying about the alphabetical order. Our continuous integration process will handle the sorting for you. Just ensure that the details for your site are correctly formatted as per the existing entries.

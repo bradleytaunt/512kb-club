@@ -3,13 +3,12 @@ permalink: /
 layout: default
 hasRandomBtn: true
 ---
-<p class="notice"><b>The 512kb Club has been sunset (<a href="https://kevquirk.com/sunsetting-the-512kb-club">read more here</a>), so I have disabled the ability to create pull requests. If someone else takes over the project, this may come back in the future.</b></p>
 
 The internet has become a <b>bloated mess</b>. Huge JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.
 
 When popular website like [The New York Times](https://www.nytimes.com/) are **[multiple MB in size](/assets/images/nytimes-report.pdf)** (nearly 50% of which is JavaScript!), you know there's a problem. Why does any site need to be that huge? It's crazy.
 
-But we can make a difference - all it takes is some optimisation. Do you really need that extra piece of JavaScript? Does your WordPress site need a theme that adds lots of functionality you're never going to use? Are those huge custom fonts really needed? Are your images optimised for the web?
+But we can make a difference - all it takes is some optimization. Do you really need that extra piece of JavaScript? Does your WordPress site need a theme that adds lots of functionality you're never going to use? Are those huge custom fonts really needed? Are your images optimized for the web?
 
 **The 512KB Club** is a collection of performance-focused web pages from across the Internet. To qualify your website must satisfy **both** of the following requirements:
 
@@ -19,7 +18,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 <div class="notice">
 <p>
     <b><span style="font-size: 1.4rem">Help support the 512KB Club</span></b><br><br>
-    It takes a lot of work to run the 512KB Club. We rely on the kind work of a couple of great volunteers. If you want to support the 512KB Club, please do think about <a target="blank" href="https://ko-fi.com/kevquirk">buying us a coffee</a>.
+    It takes a lot of work to run the 512KB Club. If you want to support the 512KB Club, please do think about <a target="blank" href="https://www.nearlyfreespeech.net/contribute/btxx.org">contributing directly to hosting and domain renewal costs</a> to keep the lights on!
 </p>
 </div>
 <br>
