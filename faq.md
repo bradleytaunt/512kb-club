@@ -6,7 +6,7 @@ title: FAQ
 
 # Frequently Asked Questions
 
-This page is intended to answer any questions you may have about joining or maintaining the 512KB Club. If you still have unanswered questions after reading this page, please [submit a ticket on SourceHut](https://lists.sr.ht/~bt/512kb-devel) and we will endeavour to answer your question.
+This page is intended to answer any questions you may have about joining or maintaining the 512KB Club. If you still have unanswered questions after reading this page, please [submit a ticket on SourceHut](https://lists.sr.ht/~bt/512kb-club-devel) and we will endeavour to answer your question.
 
 {% include faq-01.html %}
 

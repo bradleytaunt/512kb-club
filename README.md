@@ -18,7 +18,7 @@ But we can make a difference - all it takes is some optimisation. Do you really 
     1. Do a <a target="_blank" href="https://radar.cloudflare.com/scan">Cloudflare URL Scan</a> on your website.
     2. Once complete, check the "Bytes Total" stat in the "Network" card to make sure the **uncompressed** size of your site is less than 512KB.
 3. Navigate to [`_data/sites.yml`](./_data/sites.yml) and add your site (template below).
-4.  **When creating the PR, please include a link to the Cloudflare scan results in the PR description.**
+4.  **When creating the patch, please include a link to the Cloudflare scan results in the email as well for reference.**
 
 ### Site template
 
