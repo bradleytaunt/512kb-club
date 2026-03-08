@@ -17,5 +17,5 @@ tasks:
       git remote set-url origin git@git.sr.ht:~bt/512kb-club
       ssh-keyscan git.sr.ht >> ~/.ssh/known_hosts
       yq --inplace 'sort_by(.domain)' _data/sites.yml
-      sed -i 's/- domain:/\n- domain:/g' _data/sites.yml
+      sed -i '1!s/- domain:/\n- domain:/g' _data/sites.yml
       git diff --quiet || git commit -am "Fix formatting" && git push origin master
