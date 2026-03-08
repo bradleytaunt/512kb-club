@@ -10,9 +10,12 @@ sources:
 tasks:
   - format-sites: |
       cd 512kb-club
+      git checkout master
+      git log -1 --pretty=format:'%an' | grep -q "Formatting Bot" && exit 0
       git config user.email "bot@512kb.club"
       git config user.name "Formatting Bot"
       git remote set-url origin git@git.sr.ht:~bt/512kb-club
+      ssh-keyscan git.sr.ht >> ~/.ssh/known_hosts
       yq --inplace 'sort_by(.domain)' _data/sites.yml
       sed -i 's/- domain:/\n- domain:/g' _data/sites.yml
-      git diff --quiet || git commit -am "Fix formatting" && git push
+      git diff --quiet || git commit -am "Fix formatting" && git push origin master
