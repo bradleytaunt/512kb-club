@@ -1,3 +1,4 @@
+
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -707,6 +708,11 @@
   url: https://bsmth.de/
   size: 29.54
   last_checked: 2025-08-30
+
+- domain: btxx.org
+  url: https://btxx.org
+  size: 12.00
+  last_checked: 2026-03-08
 
 - domain: bubble.email
   url: https://bubble.email
@@ -4807,8 +4813,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: btxx.org
-  url: https://btxx.org
-  size: 12.00
-  last_checked: 2026-03-08
