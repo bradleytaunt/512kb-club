@@ -1103,6 +1103,11 @@
   size: 37.76
   last_checked: 2025-08-30
 
+- domain: dataos.software
+  url: https://dataos.software/
+  size: 90
+  last_checked: 2026-03-10
+
 - domain: dataswamp.org
   url: https://dataswamp.org/~solene/
   size: 98.54
@@ -1177,6 +1182,11 @@
   url: https://docs.j7k6.org/
   size: 84.21
   last_checked: 2025-08-30
+
+- domain: domx.software
+  url: https://domx.software/
+  size: 52
+  last_checked: 2026-03-10
 
 - domain: donohoe.dev
   url: https://donohoe.dev/
@@ -1623,6 +1633,11 @@
   size: 28.60
   last_checked: 2025-08-30
 
+- domain: genx.software
+  url: https://genx.software/
+  size: 110
+  last_checked: 2026-03-10
+
 - domain: geodev.me
   url: https://geodev.me/
   size: 195.56
@@ -1817,6 +1832,11 @@
   url: https://home.hedy.dev/
   size: 242.68
   last_checked: 2025-08-30
+
+- domain: honestcode.software
+  url: https://honestcode.software/
+  size: 94
+  last_checked: 2026-03-10
 
 - domain: hostingtrack.stackgui.de
   url: https://hostingtrack.stackgui.de/
@@ -2802,6 +2822,11 @@
   url: https://mr.schochastics.net/
   size: 136.38
   last_checked: 2025-08-30
+
+- domain: multicardz.com
+  url: https://www.multicardz.com/
+  size: 329
+  last_checked: 2026-03-10
 
 - domain: multimachinebuilder.github.io
   url: https://multimachinebuilder.github.io/
@@ -3842,6 +3867,11 @@
   url: https://spool-five.com/
   size: 99.27
   last_checked: 2025-08-30
+
+- domain: stateless.software
+  url: https://stateless.software/
+  size: 52
+  last_checked: 2026-03-10
 
 - domain: stchris.net
   url: https://www.stchris.net/
