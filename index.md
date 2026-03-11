@@ -30,9 +30,9 @@ But we can make a difference - all it takes is some optimization. Do you really 
 <hr>
 
 <br>
-<div class="divrandom centre">
+<!--<div class="divrandom centre">
   <a class="button random" href="/random">Visit a Random Site</a>
-</div>
+</div>-->
 
 {:.jump}
 * **Jump to:**
