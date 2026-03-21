@@ -1,8 +1,3 @@
-- domain: qwaderton.org
-  url: https://qwaderton.org/
-  size: 107
-  last_checked: 2026-03-19
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -3402,6 +3397,11 @@
   url: https://qunitjs.com/
   size: 343.63
   last_checked: 2025-08-30
+
+- domain: qwaderton.org
+  url: https://qwaderton.org/
+  size: 107
+  last_checked: 2026-03-19
 
 - domain: r00ks.io
   url: https://r00ks.io/
