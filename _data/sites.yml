@@ -2818,6 +2818,11 @@
   size: 271.67
   last_checked: 2025-08-30
 
+- domain: moonydev.xyz
+  url: https://moonydev.xyz/
+  size: 47.9
+  last_checked: 2026-03-26
+
 - domain: morsehero.com
   url: https://morsehero.com
   size: 340.64
@@ -4672,8 +4677,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: moonydev.xyz
-  url: https://moonydev.xyz/
-  size: 47.9
-  last_checked: 2026-03-26
