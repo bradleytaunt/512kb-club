@@ -3963,6 +3963,11 @@
   size: 10.80
   last_checked: 2025-08-30
 
+- domain: svaerd.fi
+  url: https://svaerd.fi/
+  size: 93.62
+  last_checked: 2026-04-01
+
 - domain: syswraith.com
   url: https://syswraith.com/
   size: 153.27
@@ -4682,8 +4687,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: svaerd.fi
-  url: https://svaerd.fi/
-  size: 93.62
-  last_checked: 2026-04-01
