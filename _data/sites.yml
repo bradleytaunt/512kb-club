@@ -1548,6 +1548,11 @@
   size: 12.48
   last_checked: 2025-08-30
 
+- domain: filmlog.eu
+  url: https://filmlog.eu/
+  size: 86.27
+  last_checked: 2026-04-20
+
 - domain: filmroellchen.eu
   url: https://filmroellchen.eu/
   size: 162.42
