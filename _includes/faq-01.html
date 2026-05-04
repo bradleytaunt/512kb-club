@@ -4,8 +4,8 @@
         instructions:</p>
 
     <ol>
-        <li>Do a <a target="_blank" href="https://radar.cloudflare.com/scan">Cloudflare URL Scan</a> on your website.</li>
-        <li>Once complete, click the "Bytes Total" stat in the "Network" card and scroll down to the "IP addresses" section. Add those items together and make sure the **uncompressed** size of your site is less than 512KB.</li>
+        <li>Do a <a target="_blank" href="https://www.debugbear.com/test/page-size-checker">Debugbear Page Weight Scan</a> on your website.</li>
+        <li>Once complete, check the total "Page Weight" and make sure the <b>uncompressed</b> size of your site is less than 512KB.</li>
         <li>If your site satisfies this requirement, add it to the existing <code>_data/sites.yml</code> file (following the same format as other members) and <a href="https://lists.sr.ht/~bt/512kb-club-devel">submit a patch</a>.</li>
         <li>I will then review your patch and merge it into master. Once merged, your site will be added to the list.</li>
     </ol>
