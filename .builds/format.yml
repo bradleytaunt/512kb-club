@@ -4,7 +4,7 @@ packages:
   - git
   - openssh
 secrets:
-  - 877617a4-009f-43a7-9b4c-25e921d2f61f
+  - 5d886ccb-5515-441d-8cc7-0af8892e4022
 sources:
   - https://git.sr.ht/~bt/512kb-club
 submitter:
