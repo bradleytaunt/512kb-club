@@ -238,15 +238,15 @@
   size: 125.90
   last_checked: 2025-08-30
 
-- domain: aonote.vercel.app
-  url: https://aonote.vercel.app/
-  size: 54.0
-  last_checked: 2026-05-20
-
 - domain: anthonydeguzman.com
   url: https://anthonydeguzman.com/
   size: 104.51
   last_checked: 2025-08-30
+
+- domain: aonote.vercel.app
+  url: https://aonote.vercel.app/
+  size: 54.0
+  last_checked: 2026-05-20
 
 - domain: apex.ac
   url: https://apex.ac/
@@ -4058,6 +4058,11 @@
   size: 23.72
   last_checked: 2025-08-30
 
+- domain: taxodium.ink
+  url: https://taxodium.ink
+  size: 121.00
+  last_checked: 2026-05-19
+
 - domain: teamakes.games
   url: https://teamakes.games/
   size: 171.52
@@ -4772,8 +4777,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: taxodium.ink
-  url: https://taxodium.ink
-  size: 121.00
-  last_checked: 2026-05-19
