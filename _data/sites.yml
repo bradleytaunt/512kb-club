@@ -4383,6 +4383,11 @@
   size: 265.87
   last_checked: 2025-08-30
 
+- domain: verdant.ee
+  url: https://blog.verdant.ee/
+  size: 6.7
+  last_checked: 2026-05-31
+
 - domain: vermontartisans.org
   url: https://vermontartisans.org
   size: 355.1
@@ -4777,8 +4782,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: verdant.ee
-  url: https://blog.verdant.ee/
-  size: 6.7
-  last_checked: 2026-05-31
