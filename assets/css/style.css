@@ -289,6 +289,15 @@ footer {
     font-size: .9rem;
 }
 
+footer span {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+footer span img {
+    margin: 0 5px;
+}
+
 @media(max-width:500px) {
     body {
         margin: 0 0 4rem 0;
