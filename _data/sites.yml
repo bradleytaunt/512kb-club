@@ -1,8 +1,3 @@
-- domain: self.radi0.cc
-  url: https://self.radi0.cc/
-  size: 499.00
-  last_checked: 2026-06-17
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -533,15 +528,15 @@
   size: 86.32
   last_checked: 2025-08-30
 
-- domain: blog.arusekk.pl
-  url: https://blog.arusekk.pl/
-  size: 31.9
-  last_checked: 2026-06-19
-
 - domain: block.sunappu.net
   url: https://block.sunappu.net/
   size: 200.96
   last_checked: 2025-08-30
+
+- domain: blog.arusekk.pl
+  url: https://blog.arusekk.pl/
+  size: 31.9
+  last_checked: 2026-06-19
 
 - domain: blog.benoitj.ca
   url: https://blog.benoitj.ca/
@@ -3822,6 +3817,11 @@
   url: https://seirdy.one/
   size: 20.6
   last_checked: 2022-05-06
+
+- domain: self.radi0.cc
+  url: https://self.radi0.cc/
+  size: 499.00
+  last_checked: 2026-06-17
 
 - domain: sexiarz.com
   url: https://sexiarz.com/
