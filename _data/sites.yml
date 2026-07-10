@@ -1,8 +1,3 @@
-- domain: taruu.dev
-  url: https://taruu.dev
-  size: 12.3
-  last_checked: 2026-07-07
-
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -17,11 +12,6 @@
   url: https://100daystooffload.com/
   size: 38.14
   last_checked: 2025-08-30
-
-- domain: itsleon.io
-  url: https://itsleon.io/
-  size: 62.1
-  last_checked: 2026-07-08
 
 - domain: 10maurycy10.github.io
   url: https://10maurycy10.github.io/
@@ -2042,6 +2032,11 @@
   url: https://italianpoetry.it/
   size: 374.04
   last_checked: 2025-08-30
+
+- domain: itsleon.io
+  url: https://itsleon.io/
+  size: 62.1
+  last_checked: 2026-07-08
 
 - domain: itspraveen.in
   url: https://itspraveen.in/
@@ -4122,6 +4117,11 @@
   url: https://tanami.org/
   size: 33.39
   last_checked: 2025-08-30
+
+- domain: taruu.dev
+  url: https://taruu.dev
+  size: 12.3
+  last_checked: 2026-07-07
 
 - domain: tast.fi
   url: https://www.tast.fi/
