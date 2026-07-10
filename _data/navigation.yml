@@ -7,5 +7,5 @@
 - name: RSS
   link: /feed.xml
 
-- name: SourceHut
-  link: https://git.sr.ht/~bt/512kb-club
+- name: Source Code
+  link: https://codeberg.org/btxx/512kb-club
