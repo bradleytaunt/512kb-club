@@ -13,6 +13,7 @@ url: "https://512kb.club"
 baseurl: ""
 permalink: :title
 timezone: Etc/GMT
+host: 0.0.0.0
 
 # Syntax Highlighting
 highlighter: rouge
