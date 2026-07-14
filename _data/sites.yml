@@ -838,11 +838,6 @@
   size: 7.94
   last_checked: 2025-08-30
 
-- domain: seal.garden
-  url: https://seal.garden/
-  size: 18.8
-  last_checked: 2026-07-14
-
 - domain: celeste.exposed
   url: https://celeste.exposed/
   size: 340.73
@@ -3842,6 +3837,11 @@
   url: https://scottk.mba/
   size: 31.95
   last_checked: 2025-08-30
+
+- domain: seal.garden
+  url: https://seal.garden/
+  size: 18.8
+  last_checked: 2026-07-14
 
 - domain: searchforplanet.org
   url: https://searchforplanet.org/
