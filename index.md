@@ -18,7 +18,7 @@ But we can make a difference - all it takes is some optimization. Do you really 
 <div class="notice">
 <p>
     <b><span style="font-size: 1.4rem">Help support the 512KB Club</span></b><br><br>
-    It takes a lot of work to run the 512KB Club. If you want to support the 512KB Club, please do think about <a target="blank" href="https://www.nearlyfreespeech.net/contribute/512kb.club">contributing directly to hosting and domain renewal costs</a> to keep the lights on!
+    It takes a lot of work to run the 512KB Club. If you want to support the 512KB Club, please do think about <a target="blank" href="https://buymeacoffee.com/wqtmtn7ir">donating towards hosting and domain renewal costs</a> to keep the lights on!
 </p>
 </div>
 <br>

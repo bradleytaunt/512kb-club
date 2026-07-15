@@ -3,4 +3,6 @@ _site
 .jekyll-metadata
 *-cache/
 .DS_Store
+.ruby-version
+Gemfile.lock
 scripts/myauth.py
