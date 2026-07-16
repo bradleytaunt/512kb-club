@@ -1843,6 +1843,11 @@
   size: 164.26
   last_checked: 2026-06-16
 
+- domain: hazelthats.me
+  url: https://hazelthats.me/
+  size: 21
+  last_checked: 2026-07-16
+
 - domain: healthchecks.io
   url: https://healthchecks.io/
   size: 511
