@@ -2353,6 +2353,11 @@
   size: 425.04
   last_checked: 2026-03-28
 
+- domain: kanevskyy.dev
+  url: https://kanevskyy.dev/
+  size: 39.6
+  last_checked: 2026-07-12
+
 - domain: karl.berlin
   url: https://www.karl.berlin/
   size: 3.66
@@ -4892,9 +4897,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-  
-- domain: kanevskyy.dev
-  url: https://kanevskyy.dev/
-  size: 39.6
-  last_checked: 2026-07-12
-
