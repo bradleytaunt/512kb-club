@@ -163,6 +163,11 @@
   size: 265
   last_checked: 2025-11-26
 
+- domain: alex.mw
+  url: https://alex.mw/
+  size: 5.86
+  last_checked: 2026-08-09
+
 - domain: alexalejandre.com
   url: https://alexalejandre.com/
   size: 30.47
@@ -4957,8 +4962,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: alex.mw
-  url: https://alex.mw/
-  size: 5.86
-  last_checked: 2026-08-09
