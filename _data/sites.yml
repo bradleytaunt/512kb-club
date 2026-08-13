@@ -1,3 +1,8 @@
+- domain: 0xded.dev
+  url: https://0xded.dev/
+  size: 27.8
+  last_checked: 2026-08-12
+
 - domain: 0xedward.io
   url: https://0xedward.io/
   size: 41.02
@@ -4967,8 +4972,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: 0xded.dev
-  url: https://0xded.dev/
-  size: 27.8
-  last_checked: 2026-08-12
