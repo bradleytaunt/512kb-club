@@ -4153,6 +4153,11 @@
   size: 87
   last_checked: 2025-11-23
 
+- domain: stik.wtf
+  url: https://stik.wtf/
+  size: 22.0
+  last_checked: 2026-08-15
+
 - domain: stopcitingai.com
   url: https://stopcitingai.com/
   size: 100
