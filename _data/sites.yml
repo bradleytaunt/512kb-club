@@ -458,6 +458,11 @@
   size: 165.57
   last_checked: 2025-08-30
 
+- domain: bengodfrey.dev
+  url: https://bengodfrey.dev
+  size: 138.0
+  last_checked: 2026-08-18
+
 - domain: benjaminrancourt.ca
   url: https://www.benjaminrancourt.ca/
   size: 189.93
@@ -1962,11 +1967,6 @@
   url: https://httpguides.com
   size: 19.64
   last_checked: 2025-08-30
-
-- domain: bengodfrey.dev
-  url: https://bengodfrey.dev
-  size: 138.0
-  last_checked: 2026-08-18
 
 - domain: https://cplmakerlab.github.io/
   url: https://cplmakerlab.github.io/simple-website-template/
