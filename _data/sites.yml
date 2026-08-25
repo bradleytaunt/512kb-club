@@ -1,8 +1,3 @@
-- domain: https://cyrilsli.github.io/luminator-web/
-  url: https://cyrilsli.github.io/luminator-web/
-  size: 75.6
-  last_checked: 2026-08-17
-
 - domain: 0xded.dev
   url: https://0xded.dev/
   size: 27.8
@@ -1977,6 +1972,11 @@
   url: https://cplmakerlab.github.io/simple-website-template/
   size: 231.41
   last_checked: 2025-08-30
+
+- domain: https://cyrilsli.github.io/luminator-web/
+  url: https://cyrilsli.github.io/luminator-web/
+  size: 75.6
+  last_checked: 2026-08-17
 
 - domain: hugo-mechiche.com
   url: https://hugo-mechiche.com/
