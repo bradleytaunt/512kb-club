@@ -3,9 +3,10 @@
     <p>If you're interested in getting your site added to <b>The 512KB Club</b>, all you need to do is follow these
         instructions:</p>
 
+    <img src="/assets/images/submit-screenshot.png" alt="Firefox network tab showing total website size">
+
     <ol>
-        <li>Do a <a target="_blank" href="https://www.debugbear.com/test/page-size-checker?device=desktop">Debugbear Page Weight Scan</a> on your website.</li>
-        <li>Once complete, check the total "Page Weight" and make sure the <b>uncompressed</b> size of your site is less than 512KB.</li>
+        <li>Check your website's <i>total</i> size (not transferred!) using <strong>Firefox's Network tab</strong>. Make sure you have cache disabled and ensure all resources have loaded. You might need to scroll the entire page if any assets are loaded in dynamically.</li>
         <li>If your site satisfies this requirement, add it to the existing <code>_data/sites.yml</code> file (following the same format as other members) and <a href="https://codeberg.org/btxx/512kb-club">open a PR</a> or <a href="https://lists.sr.ht/~bt/512kb-club-devel">submit a patch via email</a> if you prefer.</li>
         <li>I will then review your patch and merge it into master. Once merged, your site will be added to the list.</li>
     </ol>
