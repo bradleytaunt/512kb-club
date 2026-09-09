@@ -3208,6 +3208,11 @@
   size: 31.19
   last_checked: 2025-08-30
 
+- domain: notchoc.codeberg.page
+  url: https://notchoc.codeberg.page
+  size: 28.7
+  last_checked: 2026-09-07
+
 - domain: nthp.me
   url: https://nthp.me
   size: 190.86
