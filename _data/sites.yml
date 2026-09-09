@@ -3183,6 +3183,11 @@
   size: 36.0
   last_checked: 2026-07-06
 
+- domain: notchoc.codeberg.page
+  url: https://notchoc.codeberg.page
+  size: 28.7
+  last_checked: 2026-09-07
+
 - domain: notes.ghed.in
   url: https://notes.ghed.in/
   size: 52.82
@@ -3207,11 +3212,6 @@
   url: https://noulin.net/blog
   size: 31.19
   last_checked: 2025-08-30
-
-- domain: notchoc.codeberg.page
-  url: https://notchoc.codeberg.page
-  size: 28.7
-  last_checked: 2026-09-07
 
 - domain: nthp.me
   url: https://nthp.me
