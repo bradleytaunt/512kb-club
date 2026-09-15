@@ -3868,15 +3868,15 @@
   size: 386.34
   last_checked: 2025-08-30
 
-- domain: salixos.org
-  url: https://salixos.org/
-  size: 55.54
-  last_checked: 2025-08-30
-
 - domain: salieri.observer
   url: https://salieri.observer/
   size: 120.12
   last_checked: 2026-09-12
+
+- domain: salixos.org
+  url: https://salixos.org/
+  size: 55.54
+  last_checked: 2025-08-30
 
 - domain: sam.pavot.ca
   url: https://sam.pavot.ca
