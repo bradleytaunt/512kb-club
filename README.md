@@ -15,6 +15,12 @@ But we can make a difference - all it takes is some optimisation. Do you really 
 
 Please follow the instructions found on the [main FAQ section of the club website](https://512kb.club/faq/)
 
+TL;DR: Send git email patches to 512kb-club@freelists.org
+
+You can also subscribe to the project's mailing list here:
+
+[freelists.org/list/512kb-club](https://www.freelists.org/list/512kb-club)
+
 ### Site template
 
 #### Sample
