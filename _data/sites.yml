@@ -2208,6 +2208,11 @@
   size: 233.45
   last_checked: 2025-08-30
 
+- domain: jarekavi.com
+  url: https://jarekavi.com/
+  size: 492.68
+  last_checked: 2026-09-16
+
 - domain: jasonthai.me
   url: https://jasonthai.me/
   size: 20.37
@@ -2362,6 +2367,11 @@
   url: https://josias.dev/
   size: 41.13
   last_checked: 2025-08-30
+
+- domain: jotalea.com.ar
+  url: https://jotalea.com.ar
+  size: 507.98
+  last_checked: 2026-09-15
 
 - domain: jothiprasath.com
   url: https://jothiprasath.com
@@ -2972,6 +2982,11 @@
   url: https://mizik.sk/
   size: 10.17
   last_checked: 2025-08-30
+
+- domain: mjj.io
+  url: https://mjj.io/
+  size: 10.47
+  last_checked: 2026-09-16
 
 - domain: mleduc.xyz
   url: https://mleduc.xyz/
@@ -5067,18 +5082,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: jotalea.com.ar
-  url: https://jotalea.com.ar
-  size: 507.98
-  last_checked: 2026-09-15
-
-- domain: mjj.io
-  url: https://mjj.io/
-  size: 10.47
-  last_checked: 2026-09-16
-
-- domain: jarekavi.com
-  url: https://jarekavi.com/
-  size: 492.68
-  last_checked: 2026-09-16
