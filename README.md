@@ -24,16 +24,19 @@ You can also subscribe to the project's mailing list here:
 ### Site template
 
 #### Sample
-```
+
+~~~sh
 - domain: example.com
   url: http://example.com/ (Make sure you keep the trailing slash)
   size: 2.5
   last_checked: 2021-05-26 (YYYY-MM-DD)
-```
+~~~
+
 #### Blank
-```
+
+~~~sh
 - domain:
   url:
   size:
   last_checked:
-```
+~~~
