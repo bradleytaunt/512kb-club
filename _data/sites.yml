@@ -3798,6 +3798,11 @@
   size: 238.97
   last_checked: 2025-08-30
 
+- domain: rexyiscool.space
+  url: https://rexyiscool.space/
+  size: 242.05
+  last_checked: 2026-10-25
+
 - domain: rezhajul.io
   url: https://rezhajul.io/
   size: 149.69
@@ -5122,8 +5127,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: rexyiscool.space
-  url: https://rexyiscool.space/
-  size: 242.05
-  last_checked: 2026-10-25
