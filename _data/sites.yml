@@ -1283,6 +1283,11 @@
   size: 52.00
   last_checked: 2026-03-10
 
+- domain: don.lat
+  url: https://don.lat/
+  size: 82.71
+  last_checked: 2026-10-26
+
 - domain: donohoe.dev
   url: https://donohoe.dev/
   size: 471.82
