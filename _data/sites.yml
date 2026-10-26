@@ -3988,6 +3988,11 @@
   size: 34.00
   last_checked: 2025-08-30
 
+- domain: scattersplatter.net
+  url: https://scattersplatter.net
+  size: 76.15
+  last_checked: 2026-10-25
+
 - domain: scf37.me
   url: https://scf37.me/
   size: 67.30
@@ -5127,10 +5132,3 @@
   url: https://zwieratko.sk/
   size: 30.94
   last_checked: 2025-08-30
-
-- domain: scattersplatter.net
-  url: https://scattersplatter.net
-  size: 76.15
-  last_checked: 2026-10-25
-
-  
