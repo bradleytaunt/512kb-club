@@ -4338,6 +4338,11 @@
   size: 93.62
   last_checked: 2026-04-01
 
+- domain: swirly.moe
+  url: http://swirly.moe/
+  size: 23.28
+  last-checked: 2026-10-28
+
 - domain: syswraith.com
   url: https://syswraith.com/
   size: 153.27
