@@ -3603,6 +3603,11 @@
   size: 26.59
   last_checked: 2025-08-30
 
+- domain: plaintext.brennan.day
+  url: https://plaintext.brennan.day/
+  size: 16.28
+  last_checked: 2026-11-14
+
 - domain: plaintextsports.com
   url: https://plaintextsports.com/
   size: 44.94
